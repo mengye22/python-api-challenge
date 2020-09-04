@@ -12,6 +12,9 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 Plot the following:
 
 * Temperature (F) vs. Latitude
+
+![lat_temp](output_data/lat_temp.png)
+
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
