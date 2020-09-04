@@ -16,8 +16,16 @@ Plot the following:
 ![lat_temp](output_data/lat_temp.png)
 
 * Humidity (%) vs. Latitude
+
+![lat_humi](output_data/lat_humi.png)
+
 * Cloudiness (%) vs. Latitude
+
+![lat_cloud](output_data/lat_cloud.png)
+
 * Wind Speed (mph) vs. Latitude
+
+![lat_wind](output_data/lat_wind.png)
 
 Your second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
